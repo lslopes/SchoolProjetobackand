@@ -1,0 +1,44 @@
+#cabesalho_img{margin: -0px 0px;}
+#cabesalho_name{
+    font-family: freehand521 bt;
+    font-size: 90px;    
+    right: 39%;
+    position: absolute;    
+    color: #ffffff; }
+body{
+    background: black;
+}
+#eslogam{
+    font-family: freehand521 bt;
+    text-align: center;
+    font-size: 300%;
+    color: #ffffff; }
+
+#mensagem_01{text-align: center;
+color: #ffffff}
+
+#rodape_dados{ padding: 8%;
+    left: 33%;
+    position: absolute;}
+
+#mensagem_cursos{text-align: center;
+    color: #ffffff;
+    padding: 8%;
+    left: 33%;
+    }
+#disciplina{text-align: center;
+    color: #ffffff;
+    padding: 8%;
+    left: 33%;}
+
+ #noticias_h2{
+        font-family: freehand521 bt;
+        text-align: center;
+        font-size: 300%;
+        color: #ffffff; }  
+#novas_noticias{text-align: center;
+    color: #ffffff;
+    padding: 8%;
+    left: 33%;}
+
+
